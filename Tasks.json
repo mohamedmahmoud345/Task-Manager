@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "description": "Finish C# project (priority)",
+    "dueDate": "2025-05-03T23:37:17.3955393+03:00",
+    "status": 1
+  },
+  {
+    "id": 3,
+    "description": "Push project to GitHub",
+    "dueDate": "2025-05-06T00:00:00+03:00",
+    "status": 0
+  },
+  {
+    "id": 4,
+    "description": "Test JSON file loading",
+    "dueDate": "2025-05-07T00:00:00+03:00",
+    "status": 2
+  },
+  {
+    "id": 5,
+    "description": "Document the API",
+    "dueDate": "2025-05-03T23:37:17.3954647+03:00",
+    "status": 0
+  }
+]
